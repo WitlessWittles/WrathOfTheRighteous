@@ -1,6 +1,10 @@
-# Title of AP
+# Wrath of the Righteous - 2e Conversion
 
-[A Series of Dice-Based Events Discord](https://discord.gg/UQ8UD3H)
+This is a fan built repository for the conversion guides for those wishing to run and convert WotR to Pathfinder 2e. The README.MD files for each book arethe conversion guides, while the statblocks folder for each book holds the individual monster/NPC stat blocks which are linked to from the guide.
+
+## Join the discord
+
+Check out the discord server, [A Series of Dice-Based Events Discord](https://discord.gg/UQ8UD3H)
 
 A repository to hold tools for those wishing to run and convert Title of AP to Pathfinder 2E.
 
